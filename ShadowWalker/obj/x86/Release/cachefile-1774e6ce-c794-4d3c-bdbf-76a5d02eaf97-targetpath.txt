@@ -1,0 +1,14 @@
+Content\Models\test_puppet.xnb
+Content\Models\ShadowBeast.xnb
+Content\Models\ShadowGuardian.xnb
+Content\Models\ShadowHunter.xnb
+Content\Maps\terrain.xnb
+Content\Menus\displayMain.xnb
+Content\Menus\displayTitle.xnb
+Content\Menus\displayInventory.xnb
+Content\Menus\displayMarker.xnb
+Content\Menus\displayPause.xnb
+Content\Menus\displayCredits.xnb
+Content\Menus\displayHUD.xnb
+Content\Shader\Shader.xnb
+Content\Maps\rocks_0.xnb

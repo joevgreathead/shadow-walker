@@ -1,0 +1,3 @@
+C:\mygames\ShadowWalker_Version1.0_XNA3.0\ShadowWalker\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Version1.0_XNA3.0\ShadowWalker\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\Content\obj\x86\Debug\ResolveAssemblyReference.cache

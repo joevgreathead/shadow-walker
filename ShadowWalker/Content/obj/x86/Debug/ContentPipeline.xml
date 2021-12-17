@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\test_puppet.X</Source>
+      <Name>Models\test_puppet</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Models\test_puppet.xnb</Output>
+      <Time>2010-04-12T15:31:51.6864783-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\test_puppet_0.xml</Key>
+        <Value>2010-05-03T15:44:43.0859578-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\ShadowBeast.X</Source>
+      <Name>Models\ShadowBeast</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Models\ShadowBeast.xnb</Output>
+      <Time>2010-04-12T16:02:24.4448866-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\ShadowBeast_0.xml</Key>
+        <Value>2010-05-03T15:44:43.195158-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\test_puppet.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\test_puppet_0.xml</Output>
+      <Time>2010-04-12T15:31:51.6864783-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ShadowBeast.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\ShadowBeast_0.xml</Output>
+      <Time>2010-04-12T16:02:24.4448866-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Maps\terrain.bmp</Source>
+      <Name>Maps\terrain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>ContentProcessor1</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Maps\terrain.xnb</Output>
+      <Time>2010-05-03T17:03:40.8569488-04:00</Time>
+      <Request>C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Maps\rocks_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Maps\rocks.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Maps\rocks_0.xnb</Output>
+      <Time>2007-11-26T11:33:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Shader\Shader.fx</Source>
+      <Name>Shader\Shader</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Shader\Shader.xnb</Output>
+      <Time>2010-05-04T14:41:57.7740669-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\displayInventory.jpg</Source>
+      <Name>Menus\displayInventory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Menus\displayInventory.xnb</Output>
+      <Time>2010-05-16T21:44:41.9896913-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\displayPause.jpg</Source>
+      <Name>Menus\displayPause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Menus\displayPause.xnb</Output>
+      <Time>2010-05-16T22:25:05.6684048-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\displayMarker.jpg</Source>
+      <Name>Menus\displayMarker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Menus\displayMarker.xnb</Output>
+      <Time>2010-05-16T21:50:50.419835-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\displayCredits.jpg</Source>
+      <Name>Menus\displayCredits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Menus\displayCredits.xnb</Output>
+      <Time>2010-05-16T22:52:25.5392849-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\displayMain.jpg</Source>
+      <Name>Menus\displayMain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Menus\displayMain.xnb</Output>
+      <Time>2010-05-03T22:06:47.9602399-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\displayTitle.jpg</Source>
+      <Name>Menus\displayTitle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Menus\displayTitle.xnb</Output>
+      <Time>2010-05-03T22:06:47.96774-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\displayHUD.png</Source>
+      <Name>Menus\displayHUD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Menus\displayHUD.xnb</Output>
+      <Time>2010-05-16T22:55:36.1828965-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ShadowGuardian.X</Source>
+      <Name>Models\ShadowGuardian</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Models\ShadowGuardian.xnb</Output>
+      <Time>2010-05-17T15:39:17.7061459-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\ShadowGuardian_0.xml</Key>
+        <Value>2010-05-17T15:40:18.5651269-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\ShadowHunter.X</Source>
+      <Name>Models\ShadowHunter</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Models\ShadowHunter.xnb</Output>
+      <Time>2010-05-17T15:39:17.773647-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\ShadowHunter_0.xml</Key>
+        <Value>2010-05-17T15:40:19.5201415-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\ShadowGuardian.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\ShadowGuardian_0.xml</Output>
+      <Time>2010-05-17T15:39:17.7061459-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ShadowHunter.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\ShadowHunter_0.xml</Output>
+      <Time>2010-05-17T15:39:17.773647-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-14T11:13:52-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\HeightMapProcessor\bin\x86\Debug\HeightMapProcessor.dll</Key>
+        <Value>2010-05-03T15:44:40.7459537-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-03-30T15:00:33.9708346-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

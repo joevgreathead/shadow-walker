@@ -1,0 +1,5 @@
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\HeightMapProcessor\bin\x86\Release\HeightMapProcessor.dll
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\HeightMapProcessor\bin\x86\Release\HeightMapProcessor.pdb
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\HeightMapProcessor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\HeightMapProcessor\obj\x86\Release\HeightMapProcessor.dll
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\HeightMapProcessor\obj\x86\Release\HeightMapProcessor.pdb

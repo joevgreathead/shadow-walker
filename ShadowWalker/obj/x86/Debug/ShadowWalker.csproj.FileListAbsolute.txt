@@ -1,0 +1,36 @@
+C:\mygames\ShadowWalker_Version1.0_XNA3.0\ShadowWalker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\mygames\ShadowWalker_Version1.0_XNA3.0\ShadowWalker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\mygames\ShadowWalker_Version1.0_XNA3.0\ShadowWalker\bin\x86\Debug\Content\Models\HammerMan.xnb
+C:\mygames\ShadowWalker_Version1.0_XNA3.0\ShadowWalker\bin\x86\Debug\Content\Models\ShadowBeast.xnb
+C:\mygames\ShadowWalker_Version1.0_XNA3.0\ShadowWalker\bin\x86\Debug\ShadowWalker.exe
+C:\mygames\ShadowWalker_Version1.0_XNA3.0\ShadowWalker\bin\x86\Debug\ShadowWalker.pdb
+C:\mygames\ShadowWalker_Version1.0_XNA3.0\ShadowWalker\obj\x86\Debug\ShadowWalker.exe
+C:\mygames\ShadowWalker_Version1.0_XNA3.0\ShadowWalker\obj\x86\Debug\ShadowWalker.pdb
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Version1.0_XNA3.0\ShadowWalker\bin\x86\Debug\Content\Models\HammerMan.xnb
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Version1.0_XNA3.0\ShadowWalker\bin\x86\Debug\Content\Models\ShadowBeast.xnb
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Version1.0_XNA3.0\ShadowWalker\bin\x86\Debug\ShadowWalker.exe
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Version1.0_XNA3.0\ShadowWalker\bin\x86\Debug\ShadowWalker.pdb
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Version1.0_XNA3.0\ShadowWalker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Version1.0_XNA3.0\ShadowWalker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Version1.0_XNA3.0\ShadowWalker\obj\x86\Debug\ShadowWalker.exe
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Version1.0_XNA3.0\ShadowWalker\obj\x86\Debug\ShadowWalker.pdb
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Models\ShadowBeast.xnb
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\ShadowWalker.exe
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\ShadowWalker.pdb
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\obj\x86\Debug\ShadowWalker.exe
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\obj\x86\Debug\ShadowWalker.pdb
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Models\test_puppet.xnb
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Maps\terrain.xnb
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Maps\rocks_0.xnb
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Shader\Shader.xnb
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Menus\displayInventory.xnb
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Menus\displayPause.xnb
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Menus\displayMarker.xnb
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Menus\displayCredits.xnb
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Menus\displayMain.xnb
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Menus\displayTitle.xnb
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Menus\displayHUD.xnb
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Models\ShadowGuardian.xnb
+C:\Users\Joe Greathead\Desktop\Final\ShadowWalker_Iterations\ShadowWalker_3.0\ShadowWalker\bin\x86\Debug\Content\Models\ShadowHunter.xnb
