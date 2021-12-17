@@ -1,4 +1,4 @@
-# Shadowwalker
+# ShadowWalker
 
 This repository is an archive of a final project I was a party of during my BS degree program in 2010, at New England Institue of Technology (Warwick, RI).
 
